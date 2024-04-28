@@ -1,4 +1,6 @@
 # N-Queens Solver
+![image](https://github.com/m-a-x-e-d/n-queens/assets/80327254/597158ee-b58d-48b9-8db2-2b6a68d736d9)
+
 
 ## Running the App with Docker
 * Build the image:
